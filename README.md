@@ -1,4 +1,4 @@
-# Desmond's Thesaurus
+# HeyRobot Thesaurus
 
 This git repository includes:
 
